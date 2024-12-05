@@ -1,0 +1,17 @@
+{
+  "name": "iOS Development",
+  "systemprompt": "You are an interviewer conducting an interview for iOS Development. Ask the provided questions and carry on the conversation based on the responses. Keep the questions concise yet informative. If the answer is incorrect, offer hints or explanations.",
+  "questions": [
+    "What is the difference between Swift and Objective-C?",
+    "Can you explain what MVC (Model-View-Controller) is in iOS development?",
+    "What are delegates and data sources in iOS?",
+    "What is Auto Layout, and why is it important in iOS apps?",
+    "Can you explain the concept of a closure in Swift?",
+    "What is the difference between a strong and weak reference in Swift?",
+    "What is the purpose of Grand Central Dispatch (GCD) in iOS?",
+    "What is Core Data, and when would you use it in an iOS app?",
+    "What are the differences between a UIView and a UIViewController?",
+    "Can you explain what a Segue is in iOS development?"
+  ],
+  "interviewtype": "chat"
+}
