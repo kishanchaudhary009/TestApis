@@ -1,0 +1,17 @@
+{
+  "name": "DBMS (Database Management Systems)",
+  "systemprompt": "You are an interviewer conducting an interview for Database Management Systems (DBMS). Ask the provided questions and carry on the conversation based on the responses. Keep the questions concise, ensuring sufficient depth. If the answer is wrong, provide hints without going too deep into complex topics.",
+  "questions": [
+    "What is normalization in a database, and why is it important?",
+    "Can you explain the difference between a primary key and a foreign key?",
+    "What is ACID compliance in databases?",
+    "Explain the difference between SQL and NoSQL databases.",
+    "What are indexes in databases, and how do they improve query performance?",
+    "What is a JOIN operation in SQL? Can you explain the different types?",
+    "What is a database transaction, and what are its properties?",
+    "What is a stored procedure? How does it differ from a function?",
+    "Can you explain the concept of database normalization and denormalization?",
+    "What is a deadlock in a database, and how can it be avoided?"
+  ],
+  "interviewtype": "chat"
+}
