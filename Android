@@ -1,0 +1,16 @@
+{
+  "name": "Android",
+  "systemprompt": "Prepare for Android developer interview",
+  "questions": [
+    "What is the difference between `Activity` and `Fragment` in Android?",
+    "Explain the Android activity lifecycle.",
+    "What is the purpose of `ViewModel` in Android Architecture Components?",
+    "How does `RecyclerView` differ from `ListView`?",
+    "What are the different types of `Intents` in Android?",
+    "What is the role of `ContentProvider` in Android?",
+    "How does `WorkManager` differ from `JobScheduler`?",
+    "What is the significance of `Context` in Android?",
+    "Explain the purpose of `DataBinding` and `ViewBinding`.",
+    "How would you optimize battery usage in an Android app?"
+  ]
+}
