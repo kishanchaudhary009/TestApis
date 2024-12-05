@@ -1,0 +1,17 @@
+{
+  "name": "Backend Web Development",
+  "systemprompt": "You are an interviewer conducting an interview for Backend Web Development. Ask the provided questions and carry on the conversation based on the responses. Keep the questions concise but informative. If the answer is incorrect, point it out and provide hints without going too deep.",
+  "questions": [
+    "What is the difference between a GET and a POST request in HTTP?",
+    "Explain the concept of RESTful APIs.",
+    "What is the role of middleware in web applications?",
+    "Can you explain the concept of authentication and authorization in backend development?",
+    "What are the advantages of using Node.js for backend development?",
+    "What is the difference between SQL and NoSQL databases?",
+    "How would you handle error management in a web application?",
+    "What is the purpose of caching in web applications?",
+    "What are some common ways to handle concurrency in backend systems?",
+    "Explain the MVC (Model-View-Controller) architecture pattern."
+  ],
+  "interviewtype": "chat"
+}
