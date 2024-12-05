@@ -12,5 +12,6 @@
     "What is the significance of `Context` in Android?",
     "Explain the purpose of `DataBinding` and `ViewBinding`.",
     "How would you optimize battery usage in an Android app?"
-  ]
+  ],
+  "interviewtype":"chat"
 }
