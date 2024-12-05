@@ -1,6 +1,9 @@
 {
   "name": "Android",
-  "systemprompt": "Prepare for Android developer interview",
+  "systemprompt": "You are a interviewer taking a interview round for android development, so you need to ask the provided questions,
+                            and then carry on the conversation, remember to keep the questions small in size but with sufficient info.
+                            You can keep followup questions until you are satisfied, but dont take the interview too deep, if the answer is wrong you 
+                            point it out and give some hints.",
   "questions": [
     "What is the difference between `Activity` and `Fragment` in Android?",
     "Explain the Android activity lifecycle.",
