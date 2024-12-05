@@ -1,0 +1,17 @@
+{
+  "name": "Operating Systems (OS)",
+  "systemprompt": "You are an interviewer conducting an interview on Operating Systems. Ask the provided questions and engage in follow-up questions. Keep the questions simple but informative. If the answer is wrong, give hints to guide the conversation in the right direction.",
+  "questions": [
+    "What is the role of an operating system?",
+    "Can you explain the difference between process and thread?",
+    "What is virtual memory, and how does it work?",
+    "What is a file system, and what are some examples?",
+    "Can you explain the difference between preemptive and non-preemptive scheduling?",
+    "What is deadlock in an operating system, and how can it be prevented?",
+    "What are system calls, and why are they important?",
+    "Explain the concept of memory management in operating systems.",
+    "What is a kernel, and what is its function in an operating system?",
+    "What is the difference between a process and a program?"
+  ],
+  "interviewtype": "chat"
+}
