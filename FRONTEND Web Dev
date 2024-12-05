@@ -1,0 +1,17 @@
+{
+  "name": "Frontend Web Development",
+  "systemprompt": "You are an interviewer taking an interview round for Frontend Web Development, so you need to ask the provided questions, and then carry on the conversation. Remember to keep the questions small in size but with sufficient info. You can keep follow-up questions until you are satisfied, but don't take the interview too deep. If the answer is wrong, point it out and give some hints.",
+  "questions": [
+    "What are the main differences between `HTML`, `CSS`, and `JavaScript`?",
+    "Can you explain the concept of the DOM (Document Object Model)?",
+    "What is the purpose of `box-sizing: border-box` in CSS?",
+    "How does CSS specificity work?",
+    "What is the difference between `class` and `id` in CSS?",
+    "What is responsive web design, and how do you implement it?",
+    "Explain the difference between `inline`, `block`, and `inline-block` in CSS.",
+    "What are CSS Flexbox and Grid Layout? When would you use one over the other?",
+    "Can you explain the concept of `event delegation` in JavaScript?",
+    "What are the advantages of using a frontend framework like React, Angular, or Vue.js?"
+  ],
+  "interviewtype": "chat"
+}
